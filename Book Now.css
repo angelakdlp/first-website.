@@ -1,0 +1,150 @@
+body{
+    background-image: url('DSC_0228.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+.website-container{
+    height: 768px;
+    width: 1056px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h1{
+    color: white;
+    margin: 0px 0px 0px 400px;
+    border-collapse: collapse;
+    display: inline-block;
+}
+h2{
+    color: white;
+    margin: 24px 0px 0px 48px;
+}
+.title{
+    color: rgb(255, 255, 255);
+    margin: 24px 0px 0px 48px;
+}
+.First-Name{
+    color: rgb(202, 202, 202);
+    margin: 3px 0px 0px 48px;
+    display: inline-block;
+}
+.Last-Name{
+    color: rgb(202, 202, 202);
+    margin: 3px 0px 0px 132px;
+    display: inline-block;
+}
+span{
+    display: block;
+}
+input{
+    background-color: rgba(45, 45, 45, 0.75);
+    margin: 3px 0px 0px 0px;
+    color: white;
+}
+.First-Name-ip{
+    display: inline-block;
+    margin: 3px 0px 0px 48px;
+}
+.Last-Name-ip{
+    margin: 3px 0px 0px 0px;
+    display: inline-block;
+}
+.First-Name-ip, .Last-Name-ip{
+    width: 200px;
+}
+.email{
+    color: rgb(255, 255, 255);
+    margin: 12px 0px 0px 48px;
+    display: inline-block;
+}
+span{
+    display: block;
+}
+input{
+    background-color: rgba(45, 45, 45, 0.75);
+    margin: 3px 0px 0px 0px;
+    color: white;
+}
+.email-ip{
+    display: inline-block;
+    margin: 3px 0px 0px 48px;
+    width: 350px;
+}
+.phone-number{
+    color: rgb(255, 255, 255);
+    margin: 12px 0px 0px 48px;
+    display: inline-block;
+}
+span{
+    display: block;
+}
+.phone-number-ip{
+    display: inline-block;
+    margin: 3px 0px 0px 48px;
+    width: 175px;
+}
+.message{
+    color: rgb(255, 255, 255);
+    margin: 12px 0px 0px 48px;
+    display: inline-block;
+}
+span{
+    display: block;
+}
+.message-ip{
+    display: inline-block;
+    margin: 3px 0px 0px 48px;
+    width: 600px;
+    height: 200px;
+    white-space: pre-wrap;
+    overflow: auto;
+    vertical-align: top;
+    line-height: 200px;
+}
+.img-logo{
+    height: 50px;
+    width: 50px;
+    text-align: right;
+    margin: 0px 25px 0px 0px;
+    display: inline-block;
+    position: absolute;
+    top: 50;
+    right: 0;
+}
+.images{
+    display: inline-block;
+    margin: 10px 0px 0px 0px;
+}
+.phone{
+    height: 35px;
+    width: 40px;
+    display: inline-block;
+    margin: 0px 0px 0px 10px;
+}
+.social{
+    height: 35px;
+    width: 35px;
+    display: inline-block;
+}
+.mail{
+    height: 35px;
+    width: 40px;
+    display: inline-block;
+}
+h3{
+    color: white;
+    display: inline-block;
+}
+.photo{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    padding: 0px 50px 0px 50px;
+}
+button{
+    margin: 40px 0px 0px 610px;
+    height: 50px;
+    width: 200px;
+    font-size:larger;
+    background-color: rgba(255, 255, 255, 0.75);
+}

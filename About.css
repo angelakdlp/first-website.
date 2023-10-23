@@ -1,0 +1,87 @@
+body{
+    background-image: url('DSC_0228.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+.website-container{
+    height: 768px;
+    width: 1056px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h1{
+    color: white;
+    margin: 0px 0px 0px 400px;
+    border-collapse: collapse;
+    display: inline-block;
+}
+h2{
+    color: white;
+    margin: 24px 0px 0px 665px;
+}
+.title{
+    color: rgb(255, 255, 255);
+    margin: 24px 0px 0px 350px;
+    font-size: larger;
+    text-align: center;
+}
+h3{
+    color: white;
+    margin: 72px 0px 0px 355px;
+    text-align: center;
+}
+.prices{
+    color: white;
+    margin: 24px 0px 0px 325px;
+    font-size: larger;
+    text-align: center;
+}
+span{
+    display: block;
+}
+.message-ip{
+    display: inline-block;
+    margin: 3px 0px 0px 48px;
+    width: 600px;
+    height: 200px;
+    white-space: pre-wrap;
+    overflow: auto;
+    vertical-align: top;
+    line-height: 200px;
+}
+.img-logo{
+    height: 50px;
+    width: 50px;
+    text-align: right;
+    margin: 0px 25px 0px 0px;
+    display: inline-block;
+    position: absolute;
+    top: 50;
+    right: 0;
+}
+.images{
+    display: inline-block;
+    margin: 10px 0px 0px 0px;
+}
+.phone{
+    height: 35px;
+    width: 40px;
+    display: inline-block;
+    margin: 0px 0px 0px 10px;
+}
+.social{
+    height: 35px;
+    width: 35px;
+    display: inline-block;
+}
+.mail{
+    height: 35px;
+    width: 40px;
+    display: inline-block;
+}
+.photo{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    padding: 0px 50px 0px 50px;
+}

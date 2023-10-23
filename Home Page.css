@@ -1,0 +1,74 @@
+body{
+    background-image: url('DSC_0228.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+.website-container{
+    height: 768px;
+    width: 1056px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h1{
+    color: white;
+    margin: 0px 0px 0px 400px;
+    border-collapse: collapse;
+    display: inline-block;
+}
+.ITR{
+    color: white;
+}
+.img-logo{
+    height: 50px;
+    width: 50px;
+    text-align: right;
+    margin: 0px 25px 0px 0px;
+    display: inline-block;
+    position: absolute;
+    top: 50;
+    right: 0;
+}
+.images{
+    display: inline-block;
+    margin: 10px 0px 0px 0px;
+}
+.phone{
+    height: 35px;
+    width: 40px;
+    display: inline-block;
+    margin: 0px 0px 0px 10px;
+}
+.social{
+    height: 35px;
+    width: 35px;
+    display: inline-block;
+}
+.mail{
+    height: 35px;
+    width: 40px;
+    display: inline-block;
+}
+h3{
+    color: white;
+    display: inline-block;
+}
+.Portfolio{
+    margin: 0px 100px 0px 565px;
+}
+.photo{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    padding: 0px 50px 0px 50px;
+}
+.h-div{
+    margin: 435px 0px 0px 400px;
+}
+button{
+    margin: 0px 0px 0px 610px;
+    height: 50px;
+    width: 200px;
+    font-size:larger;
+    background-color: rgba(255, 255, 255, 0.75)
+
+}
